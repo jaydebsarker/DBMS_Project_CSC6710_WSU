@@ -1,6 +1,10 @@
 # DBMS_Project_CSC6710_WSU
 
-This is a course project. 
+This is a course project. One can create account in this website and add their interested videos. 
+You can search for new videos, add new ones. User can rate the videos (1 to 5 stars) and can search for top 
+rated ones. Moreover, you can subscribe the city name and will be notified automatically if any new video will be uploaded for that specific city.
+We have not hosted the website yet. You can read details how to run the project and full project description. 
+
 
 Group Members Information:
 
