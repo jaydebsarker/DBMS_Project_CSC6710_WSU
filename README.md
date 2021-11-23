@@ -1,5 +1,7 @@
 # DBMS_Project_CSC6710_WSU
 
+Youtube Link: https://www.youtube.com/watch?v=WllHZ_tXvGI
+
 This is a course project. One can create account in this website and add their interested videos. 
 You can search for new videos, add new ones. User can rate the videos (1 to 5 stars) and can search for top 
 rated ones. Moreover, you can subscribe the city name and will be notified automatically if any new video will be uploaded for that specific city.
